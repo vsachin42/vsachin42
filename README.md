@@ -1,5 +1,5 @@
 ![giphy](https://github.com/ritikrana0169/ritikrana0169/assets/99540875/f9dfbd97-a330-4ba8-86ff-1099a5cdd8d9)
- 
+  
 # 💫 About Me:
 Sachin Verma<br><br>Introduction <br>Hello! My name is Sachin and I am a passionate Full Stack Web Developer  with strong administrative and problem-solving skills.<br>This README provides an overview of my skills, experiences, and social media profiles.<br><br><br>Personal Information<br>Name: Sachin Verma<br>Email: vsachin7269@gmail.com<br>Portfolio<br>Check out my portfolio for a showcase of my projects: https://vsachin42.github.io/<br><br>Social Media Profiles<br>Connect with me on: <br><br>LinkedIn: https://www.linkedin.com/in/soni-ji/<br><br>Programming Languages, Tools & Databases<br>Here are the technologies I'm proficient in:<br><br>⦿ HTML(Hyper Text Markup Language)<br>⦿ CSS (Cascading Style Sheets)<br>⦿ JavaScript(Programing Language)<br>⦿ React<br>⦿ Redux<br>⦿ Node<br>⦿ MongoDB<br>⦿ TypeScript
                                                                            
